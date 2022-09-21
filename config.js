@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
+global.Owner = ['917797146838']
+global.OwnerNumber = ['917797146838']
+global.ownertag = ['917797146838']
 global.BotName = "Zero Two"
 global.packname = "Zero Two"
 global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.OwnerName = "Kush"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
